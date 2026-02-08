@@ -1,8 +1,6 @@
 # CogVideo & CogVideoX
 
-[中文阅读](./README_zh.md)
 
-[日本語で読む](./README_ja.md)
 
 <div align="center">
 <img src=resources/logo.svg width="50%"/>
@@ -428,9 +426,6 @@ A 4-second clip of 32 frames is shown below.
 The demo for CogVideo is at [https://models.aminer.cn/cogvideo](https://models.aminer.cn/cogvideo/), where you can get
 hands-on practice on text-to-video generation. *The original input is in Chinese.*
 
-## Citation
-
-🌟 If you find our work helpful, please leave us a star and cite our paper.
 
 ```
 @article{yang2024cogvideox,
@@ -447,12 +442,3 @@ hands-on practice on text-to-video generation. *The original input is in Chinese
 }
 ```
 
-## Model-License
-
-The code in this repository is released under the [Apache 2.0 License](LICENSE).
-
-The CogVideoX-2B model (including its corresponding Transformers module and VAE module) is released under
-the [Apache 2.0 License](LICENSE).
-
-The CogVideoX-5B model (Transformers module, include I2V and T2V) is released under
-the [CogVideoX LICENSE](https://huggingface.co/THUDM/CogVideoX-5b/blob/main/LICENSE).
